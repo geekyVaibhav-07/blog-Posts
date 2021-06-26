@@ -8,7 +8,7 @@ Services:
     - delete post
 
 Routes: 
-    - path : /posts
+    - path : /post
     - methods:
         - get: get post/posts
         - post: create a new post
